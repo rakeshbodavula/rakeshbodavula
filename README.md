@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshbodavula" alt="rakeshbodavula" /></a> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **ReactJS and Backend**
 
 - 📫 How to reach me **rakeshbodavula2002@gmail.com**
 
